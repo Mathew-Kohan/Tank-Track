@@ -1,5 +1,0 @@
-IEnumerator BreathTime()
-    {
-        TurnSwich(_spriteOn, true);
-        yield return new WaitForSeconds(1f);
-    }
