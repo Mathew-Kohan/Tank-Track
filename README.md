@@ -10,3 +10,7 @@ below, I have explained the items in the scene and the way of implementing them.
 4. Used Abstract class for exploding items like tank projectiles and mines.  [Explode.cs](https://github.com/Mathew-Kohan/Tank-Track/blob/main/Assets/Scripts/Explode.cs)
 5. Two types of power-ups are designed and built in the game, i.e.  health upgrades and increased projectile. [PowerUp.cs](https://github.com/Mathew-Kohan/Tank-Track/blob/main/Assets/Scripts/PowerUp/PowerUp.cs)
 6. Simple enemy AI system for tracking and shooting the player.  [Enemy.cs](https://github.com/Mathew-Kohan/Tank-Track/blob/main/Assets/Scripts/Enemy/Enemy.cs)
+
+Below, you can see a screenshot of the game scene.
+
+![Screenshot of the game](https://github.com/Mathew-Kohan/Tank-Track/blob/main/img/tank-track-1.jpg)
